@@ -28,7 +28,7 @@ test ('extract Rows from lead table', async ({page})=>{
 
     const mheaders = await page.$$('//ul/li/div/div/div/div/div/a')
 
-    const leadaction = "Leads"
+    //const leadaction = "Leads"
 
     for(const mheader of mheaders)
     {
