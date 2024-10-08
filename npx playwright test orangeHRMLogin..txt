@@ -1,0 +1,7 @@
+npx playwright test orangeHRMLogin.spec.js --project chromium --headed --debug
+
+oxd-userdropdown-name
+
+git remote add origin https://github.com/your-username/your-repository.git
+git branch -M main
+git push -u origin main
